@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+	<Button 
+	    android:id="@+id/pick_date"
+	    android:background="#dddddddd"
+	    android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content"
+	    android:text="@string/pick_date" 
+	    android:onClick="showDatePickerDialog" />   
+	    
+	<Button 
+	    android:id="@+id/pick_time"
+	    android:background="#dddddddd"
+	    android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content"
+	    android:text="@string/pick_time" 
+	    android:onClick="showTimePickerDialog" />
+	
+	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	
+		<Spinner
+		    android:id="@+id/start_spinner"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content" />
+	
+		<Button 
+		    android:id="@+id/start_load_gps"
+		    android:background="#dddddddd"
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content"
+		    android:text="@string/load_gps" 
+		    android:onClick="loadGpsStart" />
+		
+	</LinearLayout>
+		
+	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+		
+		<Spinner
+		    android:id="@+id/destination_spinner"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content" />
+	
+		<Button 
+		    android:id="@+id/dest_load_gps"
+		    android:background="#dddddddd"
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content"
+		    android:text="@string/load_gps" 
+		    android:onClick="loadGpsDest" />
+		
+	</LinearLayout>
+	
+	<Button
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/button_send"
+	    android:onClick="sendMessage" />
+     
+</LinearLayout>

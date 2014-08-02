@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">77177</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Suchen</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">Fahrt Ergebnisse</string>
+    <string name="action_search">suchen</string>
+    <string name="pick_date">Datum</string>
+    <string name="pick_time">Uhrzeit</string>
+    <string name="pick_start_city">From city?</string>
+    <string name="pick_destination_city">To city?</string>
+    <string name="title_activity_display_fahrt">Fahrt Details</string>
+    <string name="loading">&#8230; lade Daten &#8230;</string>
+    <string name="title_activity_create_fahrt">neue Fahrt</string>
+    <string name="button_create">speichern</string>
+    <string name="action_create">anlegen</string>
+    <string name="title_activity_save_fahrt">Fahrt speichern</string>
+    <string name="load_gps">by gps</string>
+
+</resources>

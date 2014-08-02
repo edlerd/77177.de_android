@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_array">
+		<item>Aachen</item>
+		<item>Aalen</item>
+		<item>Achern</item>
+		<item>Ahlen</item>
+		<item>Ahrensburg</item>
+		<item>Albstadt</item>
+		<item>Alsfeld</item>
+		<item>Altenburg</item>
+		<item>Altenkirchen/Westerw.</item>
+		<item>Altötting</item>
+		<item>Alzey</item>
+		<item>Amberg</item>
+		<item>Andernach</item>
+		<item>Anklam</item>
+		<item>Annaberg-Buchholz</item>
+		<item>Ansbach</item>
+		<item>Arnsberg</item>
+		<item>Arnstadt</item>
+		<item>Aschaffenburg</item>
+		<item>Aschersleben</item>
+		<item>Aue (Sachsen)</item>
+		<item>Augsburg</item>
+		<item>Aurich</item>
+		<item>Backnang</item>
+		<item>Bad Füssing</item>
+		<item>Bad Gandersheim</item>
+		<item>Bad Hersfeld</item>
+		<item>Bad Homburg</item>
+		<item>Bad Kissingen</item>
+		<item>Bad Kreuznach</item>
+		<item>Bad Nauheim</item>
+		<item>Bad Neustadt/Saale</item>
+		<item>Bad Oeynhausen</item>
+		<item>Bad Pyrmont</item>
+		<item>Bad Reichenhall</item>
+		<item>Bad Salzuflen</item>
+		<item>Bad Segeberg</item>
+		<item>Bad Tölz</item>
+		<item>Baden-Baden</item>
+		<item>Balingen</item>
+		<item>Bamberg</item>
+		<item>Bautzen</item>
+		<item>Bayreuth</item>
+		<item>Bayrischzell</item>
+		<item>Beckum</item>
+		<item>Bensheim</item>
+		<item>Berchtesgaden</item>
+		<item>Bergheim</item>
+		<item>Bergisch Gladbach</item>
+		<item>Berlin</item>
+		<item>Berlin Flughafen Schönefeld</item>
+		<item>Berlin Flughafen Tegel</item>
+		<item>Bernau (bei Berlin)</item>
+		<item>Bernau am Chiemsee</item>
+		<item>Bernburg/ Saale</item>
+		<item>Biberach/Riss</item>
+		<item>Bielefeld</item>
+		<item>Bietigheim-Bissingen</item>
+		<item>Bingen am Rhein</item>
+		<item>Bitburg</item>
+		<item>Bitterfeld-Wolfen</item>
+		<item>Böblingen</item>
+		<item>Bocholt</item>
+		<item>Bochum</item>
+		<item>Bonn</item>
+		<item>Borken (NRW)</item>
+		<item>Bottrop</item>
+		<item>Brandenburg/ Havel</item>
+		<item>Braunschweig</item>
+		<item>Bremen</item>
+		<item>Bremerhaven</item>
+		<item>Brilon</item>
+		<item>Bruchsal</item>
+		<item>Brühl</item>
+		<item>Buchholz i.d. Nordheide</item>
+		<item>Bühl (BW)</item>
+		<item>Burg (bei Magdeburg)</item>
+		<item>Buxtehude</item>
+		<item>Calw</item>
+		<item>Castrop-Rauxel</item>
+		<item>Celle</item>
+		<item>Cham</item>
+		<item>Chemnitz</item>
+		<item>Clausthal-Zellerfeld</item>
+		<item>Cloppenburg</item>
+		<item>Coburg</item>
+		<item>Coesfeld</item>
+		<item>Cottbus</item>
+		<item>Crailsheim</item>
+		<item>Cuxhaven</item>
+		<item>Dachau</item>
+		<item>Darmstadt</item>
+		<item>Daun</item>
+		<item>Deggendorf</item>
+		<item>Delmenhorst</item>
+		<item>Dessau</item>
+		<item>Detmold</item>
+		<item>Diepholz</item>
+		<item>Dillenburg</item>
+		<item>Dingolfing</item>
+		<item>Dinslaken</item>
+		<item>Döbeln</item>
+		<item>Donaueschingen</item>
+		<item>Donauwörth</item>
+		<item>Dorsten</item>
+		<item>Dortmund</item>
+		<item>Dresden</item>
+		<item>Duisburg</item>
+		<item>Dülmen</item>
+		<item>Düren</item>
+		<item>Düsseldorf</item>
+		<item>Eberswalde-Finow</item>
+		<item>Eckernförde</item>
+		<item>Eichstätt</item>
+		<item>Eisenach</item>
+		<item>Eisenhüttenstadt</item>
+		<item>Elmshorn</item>
+		<item>Emden</item>
+		<item>Emmendingen</item>
+		<item>Erding</item>
+		<item>Erftstadt</item>
+		<item>Erfurt</item>
+		<item>Erkelenz</item>
+		<item>Erkrath</item>
+		<item>Erlangen</item>
+		<item>Eschwege</item>
+		<item>Eschweiler</item>
+		<item>Essen</item>
+		<item>Esslingen/ Neckar</item>
+		<item>Ettlingen</item>
+		<item>Euskirchen</item>
+		<item>Eutin</item>
+		<item>Fehmarn</item>
+		<item>Filderstadt</item>
+		<item>Finsterwalde</item>
+		<item>Flensburg</item>
+		<item>Flughafen Hahn</item>
+		<item>Flughafen Karlsruhe/Baden</item>
+		<item>Flughafen Weeze</item>
+		<item>Föhr</item>
+		<item>Forchheim</item>
+		<item>Frankenthal/ Pfalz</item>
+		<item>Frankfurt/Main</item>
+		<item>Frankfurt/Main Flughafen</item>
+		<item>Frankfurt/Oder</item>
+		<item>Frechen</item>
+		<item>Freiberg/Sachsen</item>
+		<item>Freiburg/ Breisgau</item>
+		<item>Freising</item>
+		<item>Freital</item>
+		<item>Freudenstadt</item>
+		<item>Friedrichshafen</item>
+		<item>Fulda</item>
+		<item>Fürstenfeldbruck</item>
+		<item>Fürstenwalde/ Spree</item>
+		<item>Fürth</item>
+		<item>Furtwangen</item>
+		<item>Füssen</item>
+		<item>Garbsen</item>
+		<item>Garmisch-Partenkirchen</item>
+		<item>Geldern</item>
+		<item>Gelnhausen</item>
+		<item>Gelsenkirchen</item>
+		<item>Gemünden a.Main</item>
+		<item>Gera</item>
+		<item>Geretsried</item>
+		<item>Germering</item>
+		<item>Germersheim</item>
+		<item>Gießen</item>
+		<item>Gifhorn</item>
+		<item>Gladbeck</item>
+		<item>Göppingen</item>
+		<item>Görlitz</item>
+		<item>Goslar</item>
+		<item>Gotha</item>
+		<item>Göttingen</item>
+		<item>Gräfelfing</item>
+		<item>Greifswald</item>
+		<item>Greiz</item>
+		<item>Grevenbroich</item>
+		<item>Grimma</item>
+		<item>Gronau/ Westfalen</item>
+		<item>Guben</item>
+		<item>Guebwiller</item>
+		<item>Gummersbach</item>
+		<item>Güstrow</item>
+		<item>Gütersloh</item>
+		<item>Hagen</item>
+		<item>Halberstadt</item>
+		<item>Halle/ Saale</item>
+		<item>Haltern</item>
+		<item>Hamburg</item>
+		<item>Hamburg Flughafen</item>
+		<item>Hameln</item>
+		<item>Hamm</item>
+		<item>Hanau</item>
+		<item>Hannover</item>
+		<item>Hannover Flughafen</item>
+		<item>Hattingen (NW)</item>
+		<item>Heide</item>
+		<item>Heidelberg</item>
+		<item>Heidenheim/ Brenz</item>
+		<item>Heilbronn</item>
+		<item>Heinsberg</item>
+		<item>Helmstedt</item>
+		<item>Hennef/ Sieg</item>
+		<item>Herford</item>
+		<item>Herne</item>
+		<item>Herrenberg</item>
+		<item>Herten</item>
+		<item>Herzogenrath</item>
+		<item>Hilden</item>
+		<item>Hildesheim</item>
+		<item>Hof</item>
+		<item>Hofheim/ Taunus</item>
+		<item>Holzkirchen</item>
+		<item>Homburg</item>
+		<item>Horb a.N.</item>
+		<item>Höxter</item>
+		<item>Hoyerswerda</item>
+		<item>Hürth</item>
+		<item>Husum</item>
+		<item>Ibbenbüren</item>
+		<item>Idar-Oberstein</item>
+		<item>Idstein</item>
+		<item>Ilmenau</item>
+		<item>Ingolstadt</item>
+		<item>Iserlohn</item>
+		<item>Itzehoe</item>
+		<item>Jena</item>
+		<item>Jülich</item>
+		<item>Kaarst</item>
+		<item>Kaiserslautern</item>
+		<item>Kaltenkirchen</item>
+		<item>Kamen</item>
+		<item>Kamenz</item>
+		<item>Kamp-Lintfort</item>
+		<item>Karlsruhe</item>
+		<item>Kassel</item>
+		<item>Kaufbeuren</item>
+		<item>Kehl/Rhein</item>
+		<item>Kelheim</item>
+		<item>Kempen</item>
+		<item>Kempten/Allg.</item>
+		<item>Kerpen</item>
+		<item>Kiel</item>
+		<item>Kirchheim unter Teck</item>
+		<item>Kitzingen</item>
+		<item>Kleve</item>
+		<item>Koblenz</item>
+		<item>Köln</item>
+		<item>Köln Bonn Flughafen</item>
+		<item>Königs Wusterhausen</item>
+		<item>Königswinter</item>
+		<item>Konstanz</item>
+		<item>Korbach</item>
+		<item>Köthen/ Anhalt</item>
+		<item>Krefeld</item>
+		<item>Kronach</item>
+		<item>Kulmbach</item>
+		<item>Künzelsau</item>
+		<item>Laatzen</item>
+		<item>Lage</item>
+		<item>Lahr/ Schwarzwald</item>
+		<item>Landau/ Pfalz</item>
+		<item>Landsberg am Lech</item>
+		<item>Landshut</item>
+		<item>Langenfeld/ Rheinland</item>
+		<item>Langenhagen</item>
+		<item>Lauchhammer</item>
+		<item>Lauf a. d. Pegnitz</item>
+		<item>Leer</item>
+		<item>Lehrte</item>
+		<item>Leinefelde-Worbis</item>
+		<item>Leinfelden-Echterdingen</item>
+		<item>Leipzig</item>
+		<item>Leipzig-Halle Flughafen</item>
+		<item>Lemgo</item>
+		<item>Lenggries</item>
+		<item>Leonberg (BW)</item>
+		<item>Leverkusen</item>
+		<item>Liancourt</item>
+		<item>Limburg/ Lahn</item>
+		<item>Lindau (Bodensee)</item>
+		<item>Lingen/ Ems</item>
+		<item>Lippstadt</item>
+		<item>Löbau (Sachsen)</item>
+		<item>Löhne</item>
+		<item>Lohr am Main</item>
+		<item>Lörrach</item>
+		<item>Lübben</item>
+		<item>Lübeck</item>
+		<item>Luckenwalde</item>
+		<item>Lüdenscheid</item>
+		<item>Ludwigsburg</item>
+		<item>Ludwigsfelde</item>
+		<item>Ludwigshafen/ Rhein</item>
+		<item>Ludwigslust</item>
+		<item>Lüneburg</item>
+		<item>Lünen</item>
+		<item>Lutherstadt Eisleben</item>
+		<item>Lutherstadt Wittenberg</item>
+		<item>Magdeburg</item>
+		<item>Maintal</item>
+		<item>Mainz</item>
+		<item>Mannheim</item>
+		<item>Marburg</item>
+		<item>Marktredwitz</item>
+		<item>Marl</item>
+		<item>Mayen</item>
+		<item>Meerbusch</item>
+		<item>Meersburg</item>
+		<item>Meiningen</item>
+		<item>Meißen</item>
+		<item>Melle</item>
+		<item>Memmingen</item>
+		<item>Menden/ Sauerland</item>
+		<item>Meppen</item>
+		<item>Merseburg/ Saale</item>
+		<item>Merzig</item>
+		<item>Meschede</item>
+		<item>Mettmann</item>
+		<item>Michelstadt</item>
+		<item>Minden</item>
+		<item>Mittweida</item>
+		<item>Moers</item>
+		<item>Mölln</item>
+		<item>Mönchengladbach</item>
+		<item>Monheim (NW)</item>
+		<item>Montabaur</item>
+		<item>Mosbach (Baden)</item>
+		<item>Mühlhausen (Thür.)</item>
+		<item>Mülheim/ Ruhr</item>
+		<item>München</item>
+		<item>München Flughafen</item>
+		<item>Münster</item>
+		<item>Naumburg/ Saale</item>
+		<item>Neu-Isenburg</item>
+		<item>Neu-Ulm</item>
+		<item>Neubrandenburg</item>
+		<item>Neuburg/Donau</item>
+		<item>Neumarkt/ Oberpfalz</item>
+		<item>Neumünster</item>
+		<item>Neunkirchen/Saar</item>
+		<item>Neuruppin</item>
+		<item>Neuss</item>
+		<item>Neustadt a.d. Aisch</item>
+		<item>Neustadt/ Rübenberge</item>
+		<item>Neustadt/ Weinstraße</item>
+		<item>Neustrelitz</item>
+		<item>Neuwied</item>
+		<item>Nienburg/Weser</item>
+		<item>Norden</item>
+		<item>Norderstedt</item>
+		<item>Nordhausen</item>
+		<item>Nordhorn</item>
+		<item>Nördlingen</item>
+		<item>Nortorf</item>
+		<item>Nürburgring</item>
+		<item>Nürnberg</item>
+		<item>Nürtingen</item>
+		<item>Oberhausen</item>
+		<item>Oberstdorf</item>
+		<item>Oberursel/ Taunus</item>
+		<item>Offenbach/ Main</item>
+		<item>Offenburg</item>
+		<item>Oldenburg (Oldb)</item>
+		<item>Olpe</item>
+		<item>Oranienburg</item>
+		<item>Osnabrück</item>
+		<item>Paderborn</item>
+		<item>Papenburg</item>
+		<item>Parchim</item>
+		<item>Pasewalk</item>
+		<item>Passau</item>
+		<item>Peine</item>
+		<item>Perleberg</item>
+		<item>Pfaffenhofen/Ilm</item>
+		<item>Pfarrkirchen</item>
+		<item>Pforzheim</item>
+		<item>Pinneberg</item>
+		<item>Pirmasens</item>
+		<item>Pirna</item>
+		<item>Plauen</item>
+		<item>Porta Westfalica</item>
+		<item>Potsdam</item>
+		<item>Prenzlau</item>
+		<item>Pulheim</item>
+		<item>Quedlinburg</item>
+		<item>Radebeul</item>
+		<item>Radolfzell</item>
+		<item>Rastatt</item>
+		<item>Ratingen</item>
+		<item>Ravensburg</item>
+		<item>Recklinghausen</item>
+		<item>Regensburg</item>
+		<item>Remscheid</item>
+		<item>Rendsburg</item>
+		<item>Reutlingen</item>
+		<item>Rheda-Wiedenbrück</item>
+		<item>Rheine</item>
+		<item>Ribnitz-Damgarten</item>
+		<item>Riesa</item>
+		<item>Rodgau</item>
+		<item>Rosenheim</item>
+		<item>Rostock</item>
+		<item>Rotenburg/Wümme</item>
+		<item>Rothenburg/Tauber</item>
+		<item>Rottenburg/ Neckar</item>
+		<item>Rottweil</item>
+		<item>Rügen</item>
+		<item>Rüsselsheim</item>
+		<item>Saalfeld/Saale</item>
+		<item>Saarbrücken</item>
+		<item>Saarlouis</item>
+		<item>Salzgitter</item>
+		<item>Salzwedel</item>
+		<item>Sandersleben</item>
+		<item>Sangerhausen</item>
+		<item>Sankt Augustin</item>
+		<item>Sankt Ingbert</item>
+		<item>Sankt Peter-Ording</item>
+		<item>Schleiden</item>
+		<item>Schleiz</item>
+		<item>Schleswig</item>
+		<item>Schmalkalden</item>
+		<item>Schönebeck/ Elbe</item>
+		<item>Schorndorf</item>
+		<item>Schwabach</item>
+		<item>Schwäbisch Gmünd</item>
+		<item>Schwäbisch Hall</item>
+		<item>Schwedt/ Oder</item>
+		<item>Schweinfurt</item>
+		<item>Schwerin</item>
+		<item>Schwerte</item>
+		<item>Senftenberg</item>
+		<item>Siegburg</item>
+		<item>Siegen</item>
+		<item>Sigmaringen</item>
+		<item>Sindelfingen</item>
+		<item>Singen/ Hohentwiel</item>
+		<item>Sinsheim</item>
+		<item>Soest</item>
+		<item>Solingen</item>
+		<item>Soltau</item>
+		<item>Sömmerda</item>
+		<item>Speyer</item>
+		<item>Stade</item>
+		<item>Starnberg</item>
+		<item>Steinfurt</item>
+		<item>Stendal</item>
+		<item>Stolberg/ Rheinland</item>
+		<item>Stralsund</item>
+		<item>Straubing</item>
+		<item>Stuttgart</item>
+		<item>Stuttgart Flughafen</item>
+		<item>Suhl</item>
+		<item>Sylt</item>
+		<item>Tauberbischofsheim</item>
+		<item>Tegernsee</item>
+		<item>Torgau</item>
+		<item>Traunstein</item>
+		<item>Trier</item>
+		<item>Troisdorf</item>
+		<item>Tübingen</item>
+		<item>Tuttlingen</item>
+		<item>Überlingen</item>
+		<item>Uelzen</item>
+		<item>Ulm</item>
+		<item>Unna</item>
+		<item>Usedom</item>
+		<item>Vechta</item>
+		<item>Velbert</item>
+		<item>Verden (Aller)</item>
+		<item>Viersen</item>
+		<item>Villingen-Schwenningen</item>
+		<item>Völklingen</item>
+		<item>Waiblingen</item>
+		<item>Waldshut-Tiengen</item>
+		<item>Wangen (Allgäu)</item>
+		<item>Warburg</item>
+		<item>Waren (Müritz)</item>
+		<item>Warendorf</item>
+		<item>Wasserburg am Inn</item>
+		<item>Weiden/ Oberpfalz</item>
+		<item>Weilheim in Oberbayern</item>
+		<item>Weimar</item>
+		<item>Weingarten (Württ.)</item>
+		<item>Weinheim</item>
+		<item>Weißenburg/Bay.</item>
+		<item>Weißenfels</item>
+		<item>Weißwasser</item>
+		<item>Wermelskirchen</item>
+		<item>Wernigerode</item>
+		<item>Wesel</item>
+		<item>Wetzlar</item>
+		<item>Wiesbaden</item>
+		<item>Wilhelmshaven</item>
+		<item>Willich</item>
+		<item>Winterberg</item>
+		<item>Wismar</item>
+		<item>Witten</item>
+		<item>Wittlich</item>
+		<item>Wittstock/Dosse</item>
+		<item>Wolfenbüttel</item>
+		<item>Wolfsburg</item>
+		<item>Worms</item>
+		<item>Wunstorf</item>
+		<item>Wuppertal</item>
+		<item>Würselen</item>
+		<item>Würzburg</item>
+		<item>Zeitz</item>
+		<item>Zittau</item>
+		<item>Zweibrücken</item>
+		<item>Zwickau</item>
+		<item>Zwiesel</item>
+    </string-array>
+</resources>
